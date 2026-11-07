@@ -133,7 +133,7 @@
     "imurmurhash": "^0.1.4",
     "is-glob": "^4.0.0",
     "json-stable-stringify-without-jsonify": "^1.0.1",
-    "minimatch": "^10.2.1",
+    "minimatch": "^11.0.5",
     "natural-compare": "^1.4.0",
     "optionator": "^0.9.3"
   },
@@ -173,7 +173,7 @@
     "jiti": "^2.6.1",
     "knip": "^5.60.2",
     "lint-staged": "^11.0.0",
-    "markdown-it": "^12.2.0",
+    "markdown-it": "^15.0.3",
     "markdown-it-container": "^3.0.0",
     "marked": "^4.0.8",
     "metascraper": "^5.25.7",
